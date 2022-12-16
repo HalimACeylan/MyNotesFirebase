@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "680915207939",
+    "project_id": "labs10-c55b4",
+    "storage_bucket": "labs10-c55b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:680915207939:android:7a4b4946f2b0002c6f8b36",
+        "android_client_info": {
+          "package_name": "gui.ceng.mu.edu.mynotesfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "680915207939-hekrlbr7kab18qhn5ji1h9qap434g1kq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_qZAeWMCAw4yNJ2nKfEAwsX1WBqLKNjk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "680915207939-hekrlbr7kab18qhn5ji1h9qap434g1kq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
